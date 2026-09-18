@@ -1,6 +1,8 @@
 # Movie website
 
-versel link:
+
+## [Website link](https://ph-assignment-2-liard.vercel.app) 
+https://ph-assignment-2-liard.vercel.app/ 
 
 Go to movies page and you will see the list of available movies/shows
 
